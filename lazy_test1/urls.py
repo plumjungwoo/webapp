@@ -6,6 +6,7 @@ from django.conf.urls.static import static
 urlpatterns = [
     url(r'^$', views.first_view, name='first_view'),
     url(r'^uimage/$', views.uimage, name='uimage'),  # 유이미지라는 주소를 넣으면 뷰닷유이미지라는 함수로 내용 전달할거야.
+    url(r'^livefe/$', views.livefe, name='livefe'),
 ]
 
 urlpatterns += static(settings.MEDIA_URL,
