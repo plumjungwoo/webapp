@@ -4,10 +4,8 @@ from django.conf import settings
 from django.conf.urls.static import static
 
 urlpatterns = [
-    url(r'^$', views.first_view, name='first_view'),
-    url(r'^uimage/$', views.uimage, name='uimage'),  # 유이미지라는 주소를 넣으면 뷰닷유이미지라는 함수로 내용 전달할거야.
-    url(r'^dface/$', views.dface, name='dface'),
-    url(r'^livefe/$', views.livefe, name='livefe'),
+    url(r'^$', views.index, name='index'),
+    url(r'livestream', views.liveStream, name='livestream'),
 ]
 
 urlpatterns += static(settings.MEDIA_URL,

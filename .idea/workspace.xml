@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="da2694f5-6582-4301-99a4-e8fe6cf7e979" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/lazy_test1/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/lazy_test1/views.py" afterDir="false" />
-    </list>
+    <list default="true" id="da2694f5-6582-4301-99a4-e8fe6cf7e979" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,11 +30,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lazy_test1/views.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="638">
-              <caret line="78" column="16" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="16" />
+            <state relative-caret-position="235">
+              <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
@@ -45,10 +43,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/opencv_webapp/settings.py">
+        <entry file="file://$PROJECT_DIR$/lazy_test1/templates/lazy_test1/dface.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="719">
-              <caret line="124" column="20" lean-forward="true" selection-start-line="124" selection-start-column="20" selection-end-line="124" selection-end-column="20" />
+            <state relative-caret-position="275">
+              <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -74,11 +72,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lazy_test1/lazypixels.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="975">
-              <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+            <state relative-caret-position="175">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="8" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -119,8 +117,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lazy_test1/templates/lazy_test1/uimage.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="17" column="52" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="52" />
+            <state relative-caret-position="250">
+              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -128,8 +126,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lazy_test1/templates/lazy_test1/first_view.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="11" selection-end-column="7" />
+            <state relative-caret-position="200">
+              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
             </state>
           </provider>
         </entry>
@@ -295,23 +293,31 @@
       <workItem from="1562173360738" duration="374000" />
       <workItem from="1562320287801" duration="1016000" />
       <workItem from="1562321573722" duration="2000" />
-      <workItem from="1562321661723" duration="4319000" />
+      <workItem from="1562321661723" duration="6116000" />
     </task>
+    <task id="LOCAL-00001" summary="streaming test 2 !!!">
+      <created>1562328504844</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562328504844</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23526000" />
+    <option name="totallyTimeSpent" value="25323000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="2560" height="1337" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4994012" visible="true" weight="0.11874504" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4994012" visible="true" weight="0.11874504" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" sideWeight="0.5005988" side_tool="true" weight="0.19183359" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32931727" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32931727" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.2441767" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -327,11 +333,15 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" weight="0.21683876" />
-      <window_info anchor="right" id="Database" order="4" weight="0.32896763" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32883242" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="streaming test 2 !!!" />
+    <option name="LAST_COMMIT_MESSAGE" value="streaming test 2 !!!" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$USER_HOME$/.virtualenvs/webapptest/lib/python3.7/site-packages/django/template/loader.py">
@@ -448,13 +458,6 @@
     <entry file="file://$PROJECT_DIR$/opencv_webapp/__init__.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/lazy_test1/templates/lazy_test1/dface.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="11" column="11" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lazy_test1/apps.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
@@ -464,13 +467,6 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lazy_test1/admin.py">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lazy_test1/templates/lazy_test1/uimage.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="17" column="52" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="52" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/opencv_webapp/settings.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -489,34 +485,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lazy_test1/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lazy_test1/lazypixels.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="975">
-          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lazy_test1/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" column="31" selection-start-line="7" selection-start-column="31" selection-end-line="7" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lazy_test1/templates/lazy_test1/first_view.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="11" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -537,12 +509,50 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/lazy_test1/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lazy_test1/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="78" column="16" selection-start-line="78" selection-start-column="16" selection-end-line="78" selection-end-column="16" />
+        <state relative-caret-position="235">
+          <caret line="28" column="9" lean-forward="true" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
           <folding>
             <element signature="e#0#16#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lazy_test1/templates/lazy_test1/uimage.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lazy_test1/templates/lazy_test1/first_view.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lazy_test1/templates/lazy_test1/dface.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lazy_test1/lazypixels.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="8" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
